@@ -21,6 +21,7 @@ cd MinimalApiSimpleCalculator
 
 ### 3. Запустите проект
 ```bash
+cd MinimalApi
 dotnet run
 ```
 
